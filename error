@@ -1,0 +1,16 @@
+Msg 102, Level 15, State 1, Procedure usp_Planview_PQ_Transformation, Line 16 [Batch Start Line 0]
+Incorrect syntax near '='.
+Msg 102, Level 15, State 1, Procedure usp_Planview_PQ_Transformation, Line 53 [Batch Start Line 0]
+Incorrect syntax near '='.
+Msg 102, Level 15, State 1, Procedure usp_Planview_PQ_Transformation, Line 98 [Batch Start Line 0]
+Incorrect syntax near '='.
+Msg 102, Level 15, State 1, Procedure usp_Planview_PQ_Transformation, Line 160 [Batch Start Line 0]
+Incorrect syntax near '='.
+Msg 102, Level 15, State 1, Procedure usp_Planview_PQ_Transformation, Line 183 [Batch Start Line 0]
+Incorrect syntax near '='.
+Msg 102, Level 15, State 1, Procedure usp_Planview_PQ_Transformation, Line 278 [Batch Start Line 0]
+Incorrect syntax near '='.
+Msg 102, Level 15, State 1, Procedure usp_Planview_PQ_Transformation, Line 357 [Batch Start Line 0]
+Incorrect syntax near '='.
+
+Completion time: 2026-06-11T16:49:03.4241225+00:00
